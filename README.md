@@ -1,4 +1,4 @@
-# gunmetal
+<h1 align="center">gunmetal.vim</h1>
 
 <p align="center"
 

@@ -9,7 +9,7 @@
 
 ***
 
-<p align="center">Gunmetal is designed to keep the usage of many colors to a minimum, and make only the most important syntax elements stand out, resulting in a very pleasant and distraction free place to code. If this isn't colorful enough, check out it's predecessor [Mountaineer](https://github.com/co1ncidence/mountaineer).</p>
+Gunmetal is designed to keep the usage of many colors to a minimum, and make only the most important syntax elements stand out, resulting in a very pleasant and distraction free place to code. If this isn't colorful enough, check out it's predecessor [Mountaineer](https://github.com/co1ncidence/mountaineer).
 
 <h3 align="center">Installation</h1>
 

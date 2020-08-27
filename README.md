@@ -13,4 +13,4 @@
 
 <h3 align="center">Installation</h1>
 
-<p align="center">Easy, simply place the `gunmetal.vim` file inside your vim colors folder, which should be either `~/.vim/colors/` or `~/.config/nvim/colors`, and then set `colorscheme mountaineer` in your vim config file. There are no options to this colorscheme, it works great out of the box.</p>
+Easy, simply place the `gunmetal.vim` file inside your vim colors folder, which should be either `~/.vim/colors/` or `~/.config/nvim/colors`, and then set `colorscheme mountaineer` in your vim config file. There are no options to this colorscheme, it works great out of the box.

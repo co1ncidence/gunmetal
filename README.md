@@ -3,13 +3,13 @@
 
 <p align="center"
 
-![img](https://i.postimg.cc/7PMBDS03/what.png)
+![img](scrots/2020-08-28_11-10-24.png)
 
 </p>
 
 ***
 
-Gunmetal is designed to keep the usage of many colors to a minimum, and make only the most important syntax elements stand out, resulting in a very pleasant and distraction free place to code. If this isn't colorful enough, check out it's predecessor [Mountaineer](https://github.com/co1ncidence/mountaineer).
+Gunmetal is designed to keep the usage of many colors to a minimum, and make only the most important syntax elements stand out, resulting in a very pleasant and distraction free place to code. If this isn't colorful enough for you, check out it's predecessor [Mountaineer](https://github.com/co1ncidence/mountaineer).
 
 <h3 align="center">Installation</h1>
 

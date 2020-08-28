@@ -29,7 +29,7 @@ let s:light_cyan      = { "gui": "#8aabac", "cterm": "14"  }
 let s:dark_green      = { "gui": "#9ec49f", "cterm": "2"   }
 let s:light_green     = { "gui": "#8aac8b", "cterm": "10"  }
 let s:dark_purple     = { "gui": "#c49ec4", "cterm": "134" }
-let s:light_purple    = { "gui": "#ac8aac", "cterm": "140" }
+let s:light_purple    = { "gui": "#c49ea0", "cterm": "140" }
 let s:yellow          = { "gui": "#949177", "cterm": "11"  }
 let s:light_yellow    = { "gui": "#aca98a", "cterm": "228"   }
 let s:dark_yellow     = { "gui": "#c4c19e", "cterm": "3"   }
@@ -135,7 +135,7 @@ call s:h("Search",        {"bg": s:light_green, "fg": s:light_black})
 call s:h("MoreMsg",       {"fg": s:medium_gray, "cterm": "bold", "gui": "bold"})
 hi! link ModeMsg MoreMsg
 call s:h("LineNr",        {"fg": s:bg_subtle})
-call s:h("CursorLineNr",  {"fg": s:purple, "bg": s:bg_very_subtle})
+call s:h("CursorLineNr",  {"fg": s:purple, "bg": s:bg})
 call s:h("Question",      {"fg": s:red})
 call s:h("StatusLine",    {"bg": s:bg_very_subtle})
 call s:h("StatusLineNC",  {"bg": s:bg_very_subtle, "fg": s:medium_gray})

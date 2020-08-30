@@ -13,4 +13,4 @@ Gunmetal is designed to keep the usage of many colors to a minimum, and make onl
 
 <h3 align="center">Installation</h1>
 
-Easy, simply place the `gunmetal.vim` file inside your vim colors folder, which should be either `~/.vim/colors/` or `~/.config/nvim/colors`, and then set `colorscheme mountaineer` in your vim config file. There are no options to this colorscheme, it works great out of the box.
+Easy, simply place the `gunmetal.vim` file inside your vim colors folder, which should be either `~/.vim/colors/` or `~/.config/nvim/colors`, and then set `colorscheme gunmetal` in your vim config file. There are no options to this colorscheme, it works great out of the box.

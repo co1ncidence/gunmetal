@@ -3,7 +3,7 @@
 
 <p align="center"
 
-![img](scrots/2020-08-28_11-10-24.png)
+![img](scrots/gunmetal.png)
 
 </p>
 

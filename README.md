@@ -1,8 +1,6 @@
 <h3 align="center">gunmetal.vim</h3>
 <p align="center">A variant of Mountaineer that focuses on being less colorful and more simplistic</p>
 
-***
-
 ![img](scrots/what.png)
 
 ## Installation

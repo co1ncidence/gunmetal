@@ -4,13 +4,13 @@
 
 <p align ="center"
 
-![img](scrots/gunmetal.png)
+![img](scrots/1.png)
 
 </p>
 
 <p align ="center"
 
-![img](scrots/gunmetal-grey.png)
+![img](scrots/2.png)
 
 </p>
 

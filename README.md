@@ -1,10 +1,10 @@
 # Gunmetal.vim
 
-#### A variant of Mountaineer that focuses on being less colorful and more simplistic
+A variant of Mountaineer that focuses on being less colorful and more simplistic
 
 <p align ="center"
 
-![img](https://i.postimg.cc/c159jsmF/image.png)
+![img](https://i.postimg.cc/523Qjt6J/image.png)
 
 </p>
 

@@ -1,6 +1,6 @@
-<h3 align="center">gunmetal.vim</h3>
+# Gunmetal.vim
 
-<p align="center">A variant of Mountaineer that focuses on being less colorful and more simplistic</p>
+#### A variant of Mountaineer that focuses on being less colorful and more simplistic
 
 <p align ="center"
 

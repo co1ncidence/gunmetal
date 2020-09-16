@@ -1,6 +1,6 @@
 # Gunmetal.vim
 
-A variant of Mountaineer that focuses on being less colorful and more simplistic
+Less is more.
 
 <p align ="center"
 

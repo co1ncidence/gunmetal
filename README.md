@@ -4,13 +4,7 @@
 
 <p align ="center"
 
-![img](scrots/1.png)
-
-</p>
-
-<p align ="center"
-
-![img](scrots/2.png)
+![img](https://i.postimg.cc/c159jsmF/image.png)
 
 </p>
 

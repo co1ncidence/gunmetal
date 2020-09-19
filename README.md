@@ -1,6 +1,6 @@
-# Gunmetal.vim
+<h3 align="center">Gunmetal.vim</h3>
+<p align="center">Less is more.</p>
 
-Less is more.
 
 <p align ="center"
 

@@ -1,3 +1,12 @@
+" -----------------------------------------------------------------------------
+" Name:         Gunmetal
+" Description:  Less is More
+" Author:       nuaNce <r3yan.chaudhry@zohomail.com>
+" Website:      https://github.com/co1ncidence/gunmetal.vim
+" License:      BSD 3-Clause License
+" -----------------------------------------------------------------------------
+"
+"
 hi clear
 
 if exists('syntax on')
